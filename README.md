@@ -1,1 +1,5 @@
 # gittest
+
+- Göteborg
+- Malmö
+- Stockholm
